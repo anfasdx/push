@@ -2,6 +2,8 @@
 
 This is a responsive and modern portfolio website template built with React. The design and implementation are inspired by tutorials and best practices from [freeCodeCamp.org](https://www.freecodecamp.org/). You can use this template as a starting point to showcase your projects, skills, and achievements.
 
+![image](https://github.com/user-attachments/assets/6910e685-7f19-451b-8359-0da0c2b09d7b)
+
 ## Features
 
 - **Responsive Design**: Works well on both mobile and desktop screens.
@@ -25,3 +27,4 @@ To get a local copy of this project up and running, follow these simple steps:
 - **npm/yarn**: This project uses npm (or yarn) as a package manager.
 
 ### Clone it and install packages and hit run
+
